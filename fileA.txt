@@ -1,3 +1,5 @@
 This is my file A
 
 I'm adding a line to file A
+
+And I'm changing the file A again. And also will change file B.
